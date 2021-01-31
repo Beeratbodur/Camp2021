@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlar", "Metodlar\Metodlar.csproj", "{26D641B4-6318-4DA9-AED9-47522DE85BE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metodlar\Metotlar.csproj", "{26D641B4-6318-4DA9-AED9-47522DE85BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{3E95B661-B4E1-49AA-B790-7049215255AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{3E95B661-B4E1-49AA-B790-7049215255AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{D03C11F6-9651-4B0A-9D77-D148AF01FFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{D03C11F6-9651-4B0A-9D77-D148AF01FFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2F839702-E373-4735-98DD-DF9D386D0BF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D03C11F6-9651-4B0A-9D77-D148AF01FFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03C11F6-9651-4B0A-9D77-D148AF01FFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03C11F6-9651-4B0A-9D77-D148AF01FFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F839702-E373-4735-98DD-DF9D386D0BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F839702-E373-4735-98DD-DF9D386D0BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F839702-E373-4735-98DD-DF9D386D0BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F839702-E373-4735-98DD-DF9D386D0BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
